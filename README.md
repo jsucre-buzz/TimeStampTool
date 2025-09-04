@@ -11,7 +11,7 @@
 ## Instalación
 
 ### Usando el archivo `.exe`
-1. Descarga el archivo desde la sección de [Releases](releases/TimeStampTool-1.0) del repositorio.
+1. Descarga el archivo desde la sección de [Releases](https://github.com/jsucre-buzz/TimeStampTool/releases/latest) del repositorio.
 2. Ejecuta el programa y sigue las instrucciones en pantalla.
 3. Uso
 
